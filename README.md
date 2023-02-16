@@ -1,1 +1,1 @@
-# Covid-19-probability
+# Multi Disease-probability
